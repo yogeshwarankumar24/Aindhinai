@@ -1,0 +1,53 @@
+.blogger .format-quote {
+	background-color: #ff9800 !important
+}
+
+.menu-item-has-children>a::after, .mega2>a::after {
+	border-color: #eee transparent transparent
+}
+
+.nav>li>ul:after {
+	border-color: #eee transparent
+}
+
+.left-header #main-nav {
+	padding-left: 180px
+}
+
+.woocommerce #content div.product .woocommerce-tabs
+ul.tabs {
+	border-color: #efefef !important
+}
+.flexwrap {
+	margin: 0 0 0 0
+}
+
+.woocommerce-page .postbarLeft
+.widgetable {
+	margin: 0 1px 0 0
+}
+
+.woocommerce-page
+.fourcol {
+	width: 23.9%
+}
+
+.woocommerce-page
+.eightcol {
+	width: 76.1%
+}
+
+#main-nav   li
+a {
+	margin: 0 8px
+}
+
+#main-nav   li  ul li
+a {
+	margin: 0 20px
+}
+
+.wrapper .postinfo .meta
+i {
+	line-height: inherit !important
+}
